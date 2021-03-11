@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main-div
+{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(#000,#fff);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+h1
+{
+    color: #fff;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: transparent;
+    top: 50%;
+    left: 10%;
+    position: absolute;
+    outline: none;
+    transform: translate(50%);   
+    z-index: 2;
+    font-size: 50px;
+}
+
+.side-bar
+{
+    width: 50px;
+    height: 100vh;
+    background: linear-gradient(#1db0c0,#000729);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.side-contents
+{
+    color: #fff;
+    top: 50%;
+    display: block;
+    margin: 5px;
+    position: absolute;
+    justify-content: space-between;
+}
