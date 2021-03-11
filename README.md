@@ -8,4 +8,7 @@ If you want cloud replace with cloud and you are done.
 
 ONLY Html and Css, no JS required
 
+<img src="screenshots/1.png">
+
+<img src="screenshots/2.png">
 
